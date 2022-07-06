@@ -1,4 +1,4 @@
-# Software Engineering Final Project
+## Software Engineering Final Project
 
-For more information, please read the final report.
-The grade that was given for this project is 92.
+ For more information, please read the final report.
+ The grade that was given for this project is 92.
